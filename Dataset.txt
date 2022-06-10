@@ -1,2 +1,0 @@
-We collect the dataset from kaggle and we upload it here:
-https://www.kaggle.com/datasets/amellia/face-skin-disease/settings
