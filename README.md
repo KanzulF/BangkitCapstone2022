@@ -9,3 +9,5 @@
 - Haris A7006f0635 (MD)
 - Reza Wahyu Daknantya A7258f2248 (MD) 
 
+[Machine Learning](https://github.com/KanzulF/BangkitCapstone2022/tree/Machine-Learning)
+
