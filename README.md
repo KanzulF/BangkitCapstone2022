@@ -11,5 +11,5 @@
 
 File for each path:
 - [Machine Learning](https://github.com/KanzulF/BangkitCapstone2022/tree/Machine-Learning)
-- [Cloud Computing](https://github.com/KanzulF/BangkitCapstone2022/tree/main)
+- [Cloud Computing](https://github.com/KanzulF/BangkitCapstone2022/tree/main/API)
 - [Mobile Development](https://github.com/Haristhalib/mySKIN)
